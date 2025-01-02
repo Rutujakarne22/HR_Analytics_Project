@@ -14,7 +14,7 @@ This dashboard successfully highlights key patterns in employee attrition, provi
 3.Low salary brackets and fewer years of tenure.
 4.Employees with frequent or rare travel schedules.
 
-![Dashboard1](Images/Dashboard_1.png)  
+![Dashboard1](Images/Dashboard1.png)  
 
 
 
