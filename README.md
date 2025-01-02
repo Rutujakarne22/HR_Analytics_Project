@@ -13,3 +13,11 @@ This dashboard successfully highlights key patterns in employee attrition, provi
 2.Roles with high demand, such as Laboratory Technicians and Sales Executives.
 3.Low salary brackets and fewer years of tenure.
 4.Employees with frequent or rare travel schedules.
+
+![Dashboard1](Images/Dashboard_1.png)  
+
+
+
+
+
+![Dashboard2](Images/Dashboard2.png)
